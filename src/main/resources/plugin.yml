@@ -1,0 +1,4 @@
+name: SoftenCreeper
+version: '1.0'
+main: sudark2.Sudark.softenCreeper.SoftenCreeper
+api-version: '1.21'
