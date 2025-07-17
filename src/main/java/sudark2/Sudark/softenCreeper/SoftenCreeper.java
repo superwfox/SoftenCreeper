@@ -45,7 +45,7 @@ public final class SoftenCreeper extends JavaPlugin {
                             block.update(true, false); // true=force, false=don't apply physics
                         }
                     }
-                }.runTaskLater(SoftenCreeper.this, 4 * 20L); // 替换为你的插件实例
+                }.runTaskLater(SoftenCreeper.this, 4 * 20L);
             }
         }
     }
